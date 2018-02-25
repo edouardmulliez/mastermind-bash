@@ -192,7 +192,7 @@ play_game(){
 
 ###### Game parameters ##########
 
-MAX_TRY_NB=4
+MAX_TRY_NB=12
 
 #################################
 
