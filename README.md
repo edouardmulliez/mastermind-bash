@@ -1,2 +1,5 @@
-# mastermind-bash
+# Mastermind in bash
+
 Mastermind game created in bash
+
+
